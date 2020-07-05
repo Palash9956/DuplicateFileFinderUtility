@@ -10,6 +10,7 @@ namespace DuplicateFileFinderUtility
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
